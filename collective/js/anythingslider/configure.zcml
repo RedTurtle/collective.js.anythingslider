@@ -19,7 +19,7 @@
        file="resources/anythingslider.css"
        />
     <browser:resource
-    name="anythingslider.animate.css"
+    name="animate.css"
     file="resources/animate.css"
     />
    
